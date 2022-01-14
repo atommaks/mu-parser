@@ -90,6 +90,6 @@ void input()
 
 int main() {
     test();
-    // input();
+    input();
     return 0;
 }
